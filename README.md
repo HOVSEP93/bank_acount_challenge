@@ -6,6 +6,10 @@
 - Tailwind css
 - component composition and reusability
 
+## Demo
+
+You can check out the live demo [here](https://bank-acount-challenge.vercel.app/)
+
 ## Screenshots
 
 ![App Screenshot](./public/screen/1.jpg)
